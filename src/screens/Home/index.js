@@ -12,7 +12,7 @@ import * as S from './styles'
 const getTitle = sort => {
   switch (sort) {
     case 'POPULARITY_DESC':
-      return 'Popular now'
+      return 'Popular Animes'
     case 'UPDATED_AT_DESC':
       return 'Latest'
     case 'EPISODES_DESC':
